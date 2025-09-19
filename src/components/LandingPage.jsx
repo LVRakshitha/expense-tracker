@@ -18,7 +18,7 @@ function LandingPage({ onStart }) {
 
         <div className="landing-image">
           <img
-            src="https://img.freepik.com/free-vector/business-growth-illustration_23-2147522684.jpg" 
+            src="https://cdn.dribbble.com/users/2442290/screenshots/14040701/dribbble-post_4x.png" 
             alt="Finance illustration"
           />
         </div>
